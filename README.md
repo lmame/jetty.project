@@ -1,4 +1,4 @@
-Eclipse Jetty Canonical Repository
+BMC Jetty Canonical Repository
 ==================================
 
 This is the canonical repository for the Jetty project, feel free to fork and contribute now!
